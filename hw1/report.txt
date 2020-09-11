@@ -1,0 +1,11 @@
+0) Original images:
+name: de-niro-young-straight.jpg
+size: 500x711 px
+face coordinates: (22,63) -> (497, 676)
+
+name: deniro-old.jpg
+size: 1024x1024 px
+face coordinates: (308,146) -> (754, 762)
+
+histograms of images after eliminating black color: book-1.xlsx
+histograms after splicing in half: Book-2.xlsx
