@@ -32,9 +32,9 @@ public class G_Invertor implements PlugInFilter {
 	}
 
 	public void run(ImageProcessor ip) {
-		imp.unlock();
-		IJ.run(imp, "Invert", ""); 
-		imp.lock();
+		// imp.unlock();
+		// IJ.run(imp, "Invert", ""); 
+		// imp.lock();
 		Rectangle r = ip.getRoi();
 		for (int y=r.y; y<(r.y+r.height); y++) {
 

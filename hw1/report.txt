@@ -9,3 +9,6 @@ face coordinates: (308,146) -> (754, 762)
 
 histograms of images after eliminating black color: book-1.xlsx
 histograms after splicing in half: Book-2.xlsx
+histogram of colage: combined by plugin.xlsx
+
+Custom plugin that will combine images: Add_Images.java
